@@ -1,0 +1,1 @@
+="--DDU" & " [" & TEXTE(AUJOURDHUI();"JJ/MM")& "] AM [" & TEXTE(AUJOURDHUI();"JJ/MM")& "] PM"
